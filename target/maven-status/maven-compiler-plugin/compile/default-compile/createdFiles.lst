@@ -1,0 +1,13 @@
+app/fideliz/FidelizApplication.class
+app/fideliz/OfyFilter.class
+app/fideliz/DTO/CadastroUsuarioAppDTO.class
+app/fideliz/repository/CadastroUsuarioAppRepository.class
+app/fideliz/DAO/ObjectifyGenericDAO$OneConditions.class
+app/fideliz/service/ICadastroUsuarioAppService.class
+app/fideliz/controller/CadastroController.class
+app/fideliz/DAO/ObjectifyGenericDAO$TwoConditions.class
+app/fideliz/service/OfyService.class
+app/fideliz/service/CadastroUsuarioAppService.class
+app/fideliz/DAO/ObjectifyGenericDAO.class
+app/fideliz/DAO/IGenericDAO.class
+app/fideliz/ServletInitializer.class
